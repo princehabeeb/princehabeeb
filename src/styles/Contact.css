@@ -1,0 +1,136 @@
+#contact-container{
+    background: #121212;
+    padding: 40px;
+}
+
+#contact-container h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 30px;
+    color: #fff;
+}
+
+#contact-section{
+    background: #121212;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+#contact-section input{
+    width: 800px;
+    max-width: 100%;
+    height: 70px;
+    border-radius: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border: 1px solid #fff;
+    font-size: 25px;
+    background-color: rgba(234, 234, 234, 0.412);
+}
+
+.btn-fill-b{
+    padding: 15px;
+    border-radius: 100px;
+    font-size: 30px;
+    background-color: rgb(242, 242, 107);
+    border: none;
+    cursor: pointer;
+    margin: 2px;
+    letter-spacing: 5px;
+}
+
+.btn-fill-a{
+    padding: 15px;
+    border-radius: 100px;
+    font-size: 30px;
+    background-color: rgb(242, 242, 107);
+    border: none;
+    cursor: pointer;
+    margin: 2px;
+    letter-spacing: 5px;
+    display: none;
+}
+
+textarea{
+    background-color: rgba(234, 234, 234, 0.412);
+    width: 800px;
+    max-width: 100%;
+    font-size: 25px;
+    height: 300px;
+    border-radius: 100px;
+    padding: 40px;
+    border: none;
+    outline: none;
+    border: 1px solid #fff;
+}
+
+#text-area, #inputs{
+    padding-top: 5px;
+}
+
+@media screen and (max-width:900px) {
+    #contact-section{
+        flex-direction: column;
+    }
+
+    .btn-fill-b{
+        padding: 15px;
+        border-radius: 100px;
+        font-size: 30px;
+        background-color: rgb(242, 242, 107);
+        border: none;
+        cursor: pointer;
+        margin: 2px;
+        letter-spacing: 5px;
+        display: none;
+    }
+    .btn-fill-a{
+        padding: 15px;
+        border-radius: 100px;
+        font-size: 30px;
+        background-color: rgb(242, 242, 107);
+        border: none;
+        cursor: pointer;
+        margin: 2px;
+        letter-spacing: 5px;
+        display: block;
+    }
+
+    textarea{
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #contact-section{
+        width: 100%;
+    }
+
+    #contact-section input{
+        width: 500px;
+    }
+
+    #text-area{
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width:500px){
+    #contact-section input{
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:400px){
+    #contact-section input{
+        width: 300px;
+    }
+
+    #text-area textarea{
+        width: 300px;
+    }
+}
