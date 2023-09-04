@@ -28,11 +28,11 @@ Ask me anything [here](https://github.com/princehabeeb/princehabeeb/issues?q=is%
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly&layout=compact" />
+<a href="https://github.com/princehabeeb/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=princehabeeb&show_icons=true&theme=jolly&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+<a href="https://github.com/princehabeeb/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princehabeeb&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 <p> 
