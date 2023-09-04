@@ -12,7 +12,7 @@
 </div>
 </p>
 
-My Name is [Habibullahi](https://linktr.ee/code_alumni). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. A UI/UX Designer | An avid [content creator](https://www.youtube.com/@code_alumni) exploring information technology advancements and personal development through books.<br/>
+My Name is [Habibullahi](https://linktr.ee/code_alumni). I am a software engineer with interest in solving real-world problems with technology and dependable leadership. A UI/UX Designer | An avid [content creator](https://www.youtube.com/@code_alumni) exploring information technology advancements and personal development through quality contents.<hr/><br/>
 Ask me anything [here](https://github.com/princehabeeb/princehabeeb/issues?q=is%3Aissue+is%3Aopen).
 
 <div align="center">
