@@ -4,9 +4,9 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/princehabeeeb?style=social">
+  <img src="https://img.shields.io/twitter/follow/code_alumni?style=social">
   <img src="https://img.shields.io/github/followers/princehabeeb?style=social">
-  <a href="https://www.youtube.com/c/Techiesupdate" target="_blank">
+  <a href="https://www.youtube.com/c/code_alumni" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC3G_IqPdez1SMZUFhSum2SQ?style=social">	
   </a>
 </div>
