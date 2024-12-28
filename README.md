@@ -12,10 +12,13 @@
 </div>
 </p>
 
-My Name is [Habibullahi](https://linktr.ee/code_alumni). I am Mern Stack developer with interest in solving real-world problems with technology and dependable leadership. A Native App developer | An avid [content creator](https://www.youtube.com/@code_alumni) exploring information technology advancements and personal development through quality contents.<hr/><br/>
-Ask me anything [here](https://github.com/princehabeeb/princehabeeb/issues?q=is%3Aissue+is%3Aopen).
+Hello and welcome to my GitHub profile! My name is Habibullahi Abdulwasiu, and i build web applications using the MERN stack and React Native for mobile applications.
+
+I have always been drawn to the power and potential of modern web and mobile technologies, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
+
+If you have any questions or just want to chat about web and mobile app development or open-source projects, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 <div align="center">
-  
+  <hr/>
 <p align="left"> <a href="https://twitter.com/code_alumni" target="blank"><img src="https://img.shields.io/twitter/follow/Habibullahi?logo=twitter&style=for-the-badge" alt="habibullahi" /></a> </p>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
