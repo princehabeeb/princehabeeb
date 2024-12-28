@@ -29,12 +29,11 @@ Ask me anything [here](https://github.com/princehabeeb/princehabeeb/issues?q=is%
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<a href="https://github.com/princehabeeb/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=princehabeeb&show_icons=true&theme=jolly&layout=compact" />
-</a>
-<a href="https://github.com/princehabeeb/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princehabeeb&langs_count=8&theme=jolly&layout=compact" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princehabeeb&show_icons=true&locale=en&layout=compact&theme=onedark" alt="princehabeeb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princehabeeb&show_icons=true&locale=en&theme=onedark" alt="princehabeeb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princehabeeb&theme=onedark" alt="princehabeeb" /></p>
 <hr/>
 <br/>
 <p> 
