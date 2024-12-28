@@ -14,8 +14,9 @@
 
 My Name is [Habibullahi](https://linktr.ee/code_alumni). I am Mern Stack developer with interest in solving real-world problems with technology and dependable leadership. A Native App developer | An avid [content creator](https://www.youtube.com/@code_alumni) exploring information technology advancements and personal development through quality contents.<hr/><br/>
 Ask me anything [here](https://github.com/princehabeeb/princehabeeb/issues?q=is%3Aissue+is%3Aopen).
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princehabeeb&label=Profile%20views&color=0e75b6&style=flat" alt="yczar" /> </p>
 <div align="center">
+  
+<p align="left"> <a href="https://twitter.com/code_alumni" target="blank"><img src="https://img.shields.io/twitter/follow/Habibullahi?logo=twitter&style=for-the-badge" alt="habibullahi" /></a> </p>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
