@@ -35,7 +35,7 @@ If you have any questions or just want to chat about web and mobile app developm
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princehabeeb&show_icons=true&locale=en&layout=compact&theme=onedark" alt="princehabeeb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princehabeeb&show_icons=true&locale=en&theme=onedark" alt="princehabeeb" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princehabeeb&theme=onedark" alt="princehabeeb" /></p>
 <hr/>
 <br/>
 <p> 
