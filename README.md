@@ -31,11 +31,6 @@ If you have any questions or just want to chat about web and mobile app developm
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princehabeeb&show_icons=true&locale=en&layout=compact&theme=onedark" alt="princehabeeb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princehabeeb&show_icons=true&locale=en&theme=onedark" alt="princehabeeb" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princehabeeb&theme=onedark" alt="princehabeeb" /></p>
 <hr/>
 <br/>
 </div>
