@@ -4,7 +4,6 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/code_alumni?style=social">
   <img src="https://img.shields.io/github/followers/princehabeeb?style=social">
   <a href="https://www.youtube.com/c/code_alumni" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCi2uzZOxA3yyYCw6m1MWzwg?style=social">	
