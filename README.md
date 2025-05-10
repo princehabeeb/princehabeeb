@@ -36,13 +36,11 @@ If you have any questions or just want to chat about web and mobile app developm
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princehabeeb&show_icons=true&locale=en&theme=onedark" alt="princehabeeb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princehabeeb&theme=onedark" alt="princehabeeb" /></p>
 <hr/>
 <br/>
 <p> 
   <a href="https://twitter.com/code_alumni" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/prince-habeeb-b57675214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://code_alumni.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=princehabeeb)](https://git.io/streak-stats)
 </p>
 </div>
