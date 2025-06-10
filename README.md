@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00F7FF&center=true&width=600&height=60&lines=Hi,+I'm+Prince.;I+Love+Building;Love+Shipping.;Love.js+Shitposting;Spreading+knowledge+daily.;Always+learning.">
-  </a>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/typing-card?width=600&lines=Hi,+I'm+Prince.;I+Love+Building;Love+Shipping.;Love.js+Shitposting;Spreading+knowledge+daily.;Always+learning.&center=true&font=Fira%20Code&duration=3000&pause=500&color=00F7FF&size=22" />
+</a>
 </p>
 
 <p align="center">
