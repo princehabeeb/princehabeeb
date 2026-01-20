@@ -5,32 +5,47 @@
   </a>
 </p>
 
-<h2 align="center">
-  ⚡ Full-stack Sorcerer: Building apps from your phone to your terminal.
-</h2>
+<h1 align="center">Full-Stack Engineer | Web3 & AI Architecture</h1>
 
-<p align="center"><em>🚀 Always shipping, always learning.</em></p>
-
-<div align="center">
+<p align="center">
+  <strong>Building high-performance applications from mobile interfaces to terminal-based tooling.</strong><br>
+  Focused on scalable Web2 infrastructure, decentralized Web3 protocols, and AI-driven automation.
+</p>
 
 ---
 
-<a href="https://twitter.com/code_alumni" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/Habibullahi?logo=twitter&style=for-the-badge" alt="Twitter: @Habibullahi" />
-</a>
+### About Me
 
-</div>
+I bridge the gap between complex backend logic and intuitive user experiences. My work spans the full development lifecycle, specializing in creating robust systems that leverage modern cloud infrastructure and blockchain technology. 
 
-<br/>
+- **Currently exploring:** LLM orchestration and zero-knowledge proofs.
+- **Philosophy:** Code should be as readable as it is efficient.
+- **Content:** I share technical deep-dives on my YouTube channel, Code Alumni.
+
+### Core Stack
+
+**Frontend & Mobile**
+HTML5, CSS3, JavaScript, Responsive UI/UX Design.
+
+**Backend & Web3**
+Node.js, Smart Contract Integration, API Design, Serverless Architecture.
+
+**DevOps & Infrastructure**
+Docker, GitHub Actions, Google Cloud Platform, Heroku, Git Version Control.
+
+### Technical Proficiency
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, Node.js, Shell Scripting |
+| **Cloud** | GCP, Docker, CI/CD Pipelines |
+| **Web3** | DApp Development, Wallet Integration |
+| **Workflow** | Prettier, Brave DevTools, Linux Terminal |
+
+---
 
 <p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <a href="https://twitter.com/code_alumni" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Habibullahi?style=flat-square&label=Connect%20on%20Twitter" alt="Twitter" />
+  </a>
 </p>
