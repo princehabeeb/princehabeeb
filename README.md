@@ -1,4 +1,4 @@
-# Full-Stack Engineer | Web2 • Web3 • AI
+# Full-Stack Developer | Web2 • Web3 • AI
 
 **Building high-performance applications from the mobile screen to the terminal.** I specialize in scalable Node.js architecture, decentralized protocols, and AI-driven automation.
 
