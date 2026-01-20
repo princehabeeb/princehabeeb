@@ -1,51 +1,22 @@
-<p align="center">
-  <img src="https://img.shields.io/github/followers/princehabeeb?style=social" />
-  <a href="https://www.youtube.com/c/code_alumni" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCi2uzZOxA3yyYCw6m1MWzwg?style=social" />
-  </a>
-</p>
+# Full-Stack Engineer | Web2 • Web3 • AI
 
-<h1 align="center">Full-Stack Engineer | Web3 & AI Architecture</h1>
-
-<p align="center">
-  <strong>Building high-performance applications from mobile interfaces to terminal-based tooling.</strong><br>
-  Focused on scalable Web2 infrastructure, decentralized Web3 protocols, and AI-driven automation.
-</p>
+**Building high-performance applications from the mobile screen to the terminal.** I specialize in scalable Node.js architecture, decentralized protocols, and AI-driven automation.
 
 ---
 
-### About Me
+### Technical Focus
+* **Web2:** Node.js, React, Docker, CI/CD, Rust, Next.
+* **Web3:** DApp integration and blockchain infrastructure.
+* **AI:** Implementing LLM workflows and intelligent automation.
+* **DevOps:** GitHub Actions, Linux environments, and Git.
 
-I bridge the gap between complex backend logic and intuitive user experiences. My work spans the full development lifecycle, specializing in creating robust systems that leverage modern cloud infrastructure and blockchain technology. 
-
-- **Currently exploring:** LLM orchestration and zero-knowledge proofs.
-- **Philosophy:** Code should be as readable as it is efficient.
-- **Content:** I share technical deep-dives on my YouTube channel, Code Alumni.
-
-### Core Stack
-
-**Frontend & Mobile**
-HTML5, CSS3, JavaScript, Responsive UI/UX Design.
-
-**Backend & Web3**
-Node.js, Smart Contract Integration, API Design, Serverless Architecture.
-
-**DevOps & Infrastructure**
-Docker, GitHub Actions, Google Cloud Platform, Heroku, Git Version Control.
-
-### Technical Proficiency
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript, Node.js, Shell Scripting |
-| **Cloud** | GCP, Docker, CI/CD Pipelines |
-| **Web3** | DApp Development, Wallet Integration |
-| **Workflow** | Prettier, Brave DevTools, Linux Terminal |
+### Connect & Follow
+[YouTube](https://www.youtube.com/c/code_alumni) • [Twitter](https://twitter.com/code_alumni) • [GitHub](https://github.com/princehabeeb)
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/code_alumni" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Habibullahi?style=flat-square&label=Connect%20on%20Twitter" alt="Twitter" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/princehabeeb?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCi2uzZOxA3yyYCw6m1MWzwg?style=flat-square&logo=youtube" />
+  <img src="https://img.shields.io/twitter/follow/Habibullahi?style=flat-square&logo=x" />
 </p>
